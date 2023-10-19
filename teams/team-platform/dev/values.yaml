@@ -7,3 +7,4 @@ spec:
     host:
     region:
     type: alb
+  efsFileSystemId: "fs-0e3f5161698ae494c"
